@@ -5,6 +5,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+.vs/
 
 UserSettings/
 
@@ -13,3 +14,4 @@ UserSettings/
 
 .DS_Store
 Thumbs.db
+
